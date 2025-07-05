@@ -41,3 +41,12 @@ The script is written in Python using libraries such as PyTorch, Torchvision, PI
 In conclusion, this project showcases the intersection of art and artificial intelligence, proving that neural networks can be used not only for solving analytical problems but also for inspiring creativity and transforming the way we interact with digital media.
 
 #output
+<img width="1920" height="858" alt="Image" src="https://github.com/user-attachments/assets/9a1c7668-e730-41bf-b029-f3177d82a748" />
+
+<img width="1920" height="882" alt="Image" src="https://github.com/user-attachments/assets/0fa4d8fc-80d3-47b1-87b7-cf4d18cb3b58" />
+
+<img width="1920" height="884" alt="Image" src="https://github.com/user-attachments/assets/0aa5f570-d60e-427b-b67d-febe7d791222" />
+
+<img width="1920" height="861" alt="Image" src="https://github.com/user-attachments/assets/60c3001c-2d8b-449e-b1a3-e14f41b4711f" />
+
+<img width="1920" height="887" alt="Image" src="https://github.com/user-attachments/assets/c9f5d3c5-f618-44aa-8154-041e8d60d451" />
